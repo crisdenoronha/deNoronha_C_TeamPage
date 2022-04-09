@@ -13,7 +13,13 @@
  <br> show text with add class
  <br> hide text with button remove class
   
-  <br> IMPORTANT: THE PAGE DON'T WORK WITHOUT mobile.js
+  <br> IMPORTANT: THE PAGE DON'T WORK WITHOUT mobile. 
+  
+  ## References:
+  <br> slide show:
+  <br> https://www.youtube.com/watch?v=VYsVOamdB0g
+  <br> https://www.youtube.com/watch?v=gBzsE0oieio
+  
    
 </p>
 
